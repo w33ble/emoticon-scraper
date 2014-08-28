@@ -26,8 +26,16 @@
   "author": "joe fleming",
   "license": "MIT",
   "dependencies": {
+    "lowdb": "^0.3.2",
+    "requirefrom": "^0.2.0"
   },
   "devDependencies": {
+    "bluebird": "^2.3.2",
+    "chalk": "^0.5.1",
+    "cheerio": "^0.17.0",
+    "glob": "^4.0.5",
+    "lodash": "^2.4.1",
+    "superagent": "^0.18.2",
     "tape": "^2.14.0"
   }
 }
