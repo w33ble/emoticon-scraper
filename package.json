@@ -1,0 +1,33 @@
+{
+  "name": "jpmoji",
+  "version": "0.0.0",
+  "description": "Generate text-based japanese emoji strings",
+  "main": "index.js",
+  "bin": {
+    "jpmoji": "./bin/jpmoji.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "keywords": [
+    "emoji",
+    "kaomoji",
+    "emoticons",
+    "cli",
+    "command",
+    "line",
+    "japan",
+    "japanese",
+    "emoticons"
+  ],
+  "author": "joe fleming",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "^2.14.0"
+  }
+}
