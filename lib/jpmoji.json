@@ -10054,5 +10054,183 @@
       "string": "╭( ✖_✖ )╮",
       "id": "21da76a5-f0b0-474e-868f-183be5a47dd8"
     }
+  ],
+  "tags": [
+    {
+      "title": "angry",
+      "id": "729b40ee-b564-45a9-8337-8515564b2a49"
+    },
+    {
+      "title": "apologizing",
+      "id": "0ef0c6db-430a-47a1-bf3d-db31dc558932"
+    },
+    {
+      "title": "bear",
+      "id": "1be64ba8-1df9-4c27-a24a-f5c909ceb9dc"
+    },
+    {
+      "title": "bird",
+      "id": "5ae02e2c-098a-476e-b59f-6c63e0ccee86"
+    },
+    {
+      "title": "cat",
+      "id": "28dbe316-5a66-4d15-b550-e13358b76926"
+    },
+    {
+      "title": "confused",
+      "id": "e02a2b8a-1b6d-417e-bf51-0feae1c6dde7"
+    },
+    {
+      "title": "crazy",
+      "id": "5c4a758b-a231-41e2-b91d-fe27c3c229f1"
+    },
+    {
+      "title": "crying",
+      "id": "b00134fc-48be-47b4-a1c2-5b945bc6f5c7"
+    },
+    {
+      "title": "dancing",
+      "id": "71785251-77e1-4545-9632-4fe21f9607a5"
+    },
+    {
+      "title": "dead",
+      "id": "46cceb11-9555-4499-8d8b-c43ad832e948"
+    },
+    {
+      "title": "dog",
+      "id": "85a57a6b-e125-4657-b009-efcd6206b2ca"
+    },
+    {
+      "title": "embarassed",
+      "id": "c16f44dd-26bb-4a43-8c90-b6e7e2c36149"
+    },
+    {
+      "title": "evil",
+      "id": "71005ae9-b11c-4371-b378-2818c50ae523"
+    },
+    {
+      "title": "excited",
+      "id": "bbcdee9e-75a2-4e96-bfe6-cf34f971c6cc"
+    },
+    {
+      "title": "happy",
+      "id": "a1cf540a-2d0c-45fb-b91c-8b3b452ae133"
+    },
+    {
+      "title": "hiding",
+      "id": "349be2a3-4ad0-4305-9f4d-4980deae4009"
+    },
+    {
+      "title": "hugging",
+      "id": "aa6ea285-63b9-4a60-8748-935b93faa2a0"
+    },
+    {
+      "title": "hurt",
+      "id": "90013d95-0044-4448-8d04-a5420556c26d"
+    },
+    {
+      "title": "kissing",
+      "id": "2ada1df9-598d-43b9-a529-c24dbb01bfab"
+    },
+    {
+      "title": "laughing",
+      "id": "db268b49-5eed-4058-8f75-40d5c8a5e1f9"
+    },
+    {
+      "title": "love",
+      "id": "9cdf39c2-23d2-483c-bc4c-de4cdb01b0f3"
+    },
+    {
+      "title": "monkey",
+      "id": "26c723a3-1afc-422c-9a6a-a1e3e4693a40"
+    },
+    {
+      "title": "music",
+      "id": "5ac6b626-ac60-4c36-9405-0c67b297b25c"
+    },
+    {
+      "title": "pig",
+      "id": "3a1ae74c-9993-4e76-aba5-3f7c7b784145"
+    },
+    {
+      "title": "rabbit",
+      "id": "9ff4e039-21d9-4e0d-a713-2d6337150f14"
+    },
+    {
+      "title": "running",
+      "id": "3a50b2b4-60b5-4b41-847d-a0b1fb0f023d"
+    },
+    {
+      "title": "sad",
+      "id": "00f77c4c-4aab-4bc0-b083-ded60b18343b"
+    },
+    {
+      "title": "scared",
+      "id": "95a7c11a-0ee6-4468-8ad2-d9aab51d82a5"
+    },
+    {
+      "title": "sea creature",
+      "id": "a614a965-58d9-40d6-a1b4-7a570f573bea"
+    },
+    {
+      "title": "sleeping",
+      "id": "1f922a81-5920-4293-ba76-a9de47109b6e"
+    },
+    {
+      "title": "smug",
+      "id": "69d6eef9-20f6-4ea1-8355-b47b668f1524"
+    },
+    {
+      "title": "surprised",
+      "id": "6e355528-2432-4db4-8dcf-c5b40d0f12d8"
+    },
+    {
+      "title": "surrender",
+      "id": "602e5c96-16d6-46d5-a66e-68da1ea156e3"
+    },
+    {
+      "title": "table flip",
+      "id": "6f696b76-3595-4b8e-bdbd-9f9c24b55921"
+    },
+    {
+      "title": "thinking",
+      "id": "0b390e66-8f48-432f-8b8d-440ee0c4253b"
+    },
+    {
+      "title": "troll",
+      "id": "582a46e9-234a-40f7-979f-5f46b7ed0a66"
+    },
+    {
+      "title": "waving",
+      "id": "da984ef4-bef9-4a47-9b58-420b54edc216"
+    },
+    {
+      "title": "whatever",
+      "id": "9c586d14-aef5-4af8-b7fb-7907c7372fce"
+    },
+    {
+      "title": "winking",
+      "id": "cd82bd79-a4d0-4134-8704-c02c02138b87"
+    },
+    {
+      "title": "worried",
+      "id": "1d7cab15-020f-4b06-95ca-c1d1d808b07e"
+    },
+    {
+      "title": "writing",
+      "id": "c049f5e6-c776-4372-bf16-aca4fb017e02"
+    },
+    {
+      "title": "animal",
+      "id": "54604157-736a-4737-b807-187df6fa9dfb"
+    },
+    {
+      "title": "stare",
+      "id": "9b990501-8102-412a-ab28-50c41298665d"
+    },
+    {
+      "title": "fun",
+      "id": "5e75e7a5-4ae2-469a-9f01-10c40e17e3e6"
+    }
   ]
 }
