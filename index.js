@@ -43,7 +43,6 @@ var scraper = require(siteFile);
 scraper.fetch()
 .then(function (emoticons) {
   reporter.summary('Emoticons found', [emoticons.length, 'from', scraper.url].join(' '));
-  return;
 
   emoticons.forEach(function (emoticon) {
     var emote = db('emoticons', {string: emoticon.string});
