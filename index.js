@@ -32,7 +32,6 @@ if (site === 'sites') {
 }
 
 var siteFile = './' + path.join(sitePath,  site);
-console.log(siteFile);
 if (! fs.existsSync(siteFile + '.js')) {
   console.log('So such site scraper exists:', site);
   console.log('Use `sites` for a list of available scrapers');
@@ -43,7 +42,8 @@ var scraper = require(siteFile);
 
 scraper.fetch()
 .then(function (emoticons) {
-  reporter.summary('Emoticons found', [emoticons.length, 'from', site.url].join(' '));
+  reporter.summary('Emoticons found', [emoticons.length, 'from', scraper.url].join(' '));
+  return;
 
   emoticons.forEach(function (emoticon) {
     var emote = db('emoticons', {string: emoticon.string});
