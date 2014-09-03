@@ -1,4 +1,4 @@
-var test = require('tape');
+var test = require('tap');
 var expect = require('expect');
 
 test('equals', function (t) {

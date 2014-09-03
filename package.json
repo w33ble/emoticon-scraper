@@ -1,7 +1,7 @@
 {
   "name": "jpmoji",
   "version": "0.0.0",
-  "description": "Generate text-based japanese emoji strings",
+  "description": "Generate text-based japanese emoticons by category",
   "main": "index.js",
   "bin": {
     "jpmoji": "./bin/jpmoji.js"
@@ -16,12 +16,11 @@
     "emoji",
     "kaomoji",
     "emoticons",
+    "emoticon",
     "cli",
-    "command",
-    "line",
-    "japan",
-    "japanese",
-    "emoticons"
+    "command line",
+    "japanese emoticons",
+    "japanese emoticon"
   ],
   "author": "joe fleming",
   "license": "MIT",
@@ -36,6 +35,6 @@
     "glob": "^4.0.5",
     "lodash": "^2.4.1",
     "superagent": "^0.18.2",
-    "tape": "^2.14.0"
+    "tap": "^0.4.12"
   }
 }
